@@ -1,0 +1,9 @@
+[submodule "trace-app"]
+	path = trace-app
+	url = git@github.com:TrustedWebPromotionCouncil/trusted-web-trace-app.git
+[submodule "recruit-site"]
+	path = recruit-site
+	url = git@github.com:TrustedWebPromotionCouncil/trusted-web-recruit-site.git
+[submodule "browser-extension"]
+	path = browser-extension
+	url = git@github.com:TrustedWebPromotionCouncil/trusted-web-browser-extension.git
