@@ -16,8 +16,6 @@ fi
 echo "[TRUSTED WEB] ########## Installing npm packages... ##########"
 cd trace-app && npm install && cd ..
 
-cd recruit-site && yarn install && cd ..
-
 # cd browser-extension && yarn install
 
 # echo "[TRUSTED WEB] ########## Build WebExtension... ##########"
